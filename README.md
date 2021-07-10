@@ -7,7 +7,7 @@
 - 📫 How to reach me: venkateshravada54$@gmail.com
 - 😄 Pronouns: Mr.
 
-### Hi there 👋
+
 
 <!--
 **venkateshravada/venkateshravada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
